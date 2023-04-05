@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EcoVision</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoicnV0aWxhbnR0ZWNobm9sb2d5IiwiYSI6ImNsZmFuMXltcDBqZjkzcW11YWNocGFkNTAifQ.sOtyNheJ4iD_Hi23OZPbcw</string>
+</resources>
